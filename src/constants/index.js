@@ -200,7 +200,7 @@ import {
       image: plant,
     },
     {
-      name: "SkillSeek: Skill Sharing Platform",
+      name: "Skill Sharing Social Platform",
       description:
         "A full-stack web app for discovering and sharing user-created skills, featuring secure authentication, real-time interactions, and a modular, scalable architecture. Users can post and manage skill entries, comment on others, favorite content, and message each other directly. Admins and supervisors can manage users and moderate content, while a comprehensive analytics dashboard visualizes engagement trends across the platform. Built with PHP, JavaScript, and MySQL, the app emphasizes clean structure, relational data handling, and interactive UX.",
       tags: [
